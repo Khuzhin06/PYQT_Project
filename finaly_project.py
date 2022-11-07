@@ -282,7 +282,7 @@ class Ui_Dialog(object):
         self.checkBox_sun.setText(_translate("Dialog", "Солнце/луна"))
         self.checkBox_cloud.setText(_translate("Dialog", "Облака"))
         self.checkBox_house.setText(_translate("Dialog", "Дом"))
-        self.checkBox.setText(_translate("Dialog", "цвет кнопки"))
+        self.checkBox.setText(_translate("Dialog", "цвет крыши"))
         self.tree.setText(_translate("Dialog", "Деревья"))
         self.mount.setText(_translate("Dialog", "Горы"))
         self.time.setText(_translate("Dialog", "Время суток"))
